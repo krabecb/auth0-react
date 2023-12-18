@@ -1,7 +1,7 @@
 import './App.css'
 import Nav from '../Nav/Nav'
-import Main from '../pages/Main/Main'
-import Profile from '../pages/Profile/Profile'
+import Main from '../../pages/Main/Main'
+import Profile from '../../pages/Profile/Profile'
 
 import { Routes, Route } from 'react-router-dom'
 
